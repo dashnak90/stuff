@@ -7,7 +7,7 @@ with open('text', 'r') as s:
     tree=0
 #    print(len(s)-2)
 
-    while i!=len(s)-2:
+    while i!=len(s)-2:  #322
         i+=1
         j+=3
 #        print('coord',i,j%len(s[0]))
